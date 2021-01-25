@@ -1,0 +1,12 @@
+﻿  menuWindow.cpp
+D:\Study\PKSP\CLRTetris\menuWindow.h(251,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Study\PKSP\CLRTetris\menuWindow.h(329,1): warning C4305: =: усечение из "double" в "float"
+D:\Study\PKSP\CLRTetris\menuWindow.h(463,52): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Study\PKSP\CLRTetris\menuWindow.h(474,45): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Study\PKSP\CLRTetris\menuWindow.h(474,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Study\PKSP\CLRTetris\menuWindow.h(482,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Study\PKSP\CLRTetris\menuWindow.h(482,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Study\PKSP\CLRTetris\menuWindow.h(491,51): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Study\PKSP\CLRTetris\menuWindow.h(491,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  gameWindow.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CLRTetris.vcxproj -> D:\Study\PKSP\CLRTetris\Debug\CLRTetris.exe
